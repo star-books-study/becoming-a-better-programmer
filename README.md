@@ -1,5 +1,6 @@
 # 더 나은 프로그래머 되는 법
-<img src="https://image.yes24.com/goods/126110870/XL" width="300">
+<img src="https://github.com/user-attachments/assets/5555b670-d289-4b34-973e-ac0c71a88dea" width=300/>
+
 
 ## 📚 스터디 규칙
 
